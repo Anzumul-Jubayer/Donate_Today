@@ -3,7 +3,8 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
-.top {
+/*first*/
+.first {
     background-image: url(images/donation6.jpg);
     background-repeat: no-repeat;
 
@@ -46,4 +47,94 @@ p {
 
 .down {
     margin-bottom: 60px;
+}
+
+/*second*/
+.donate {
+    text-align: center;
+    margin-top: 100px;
+}
+
+h2 {
+    font-size: 50px;
+
+}
+
+.color {
+    color: rgba(128, 128, 128, 0.577);
+}
+
+.amount {
+    display: flex;
+    margin-left: 320px;
+    margin-top: 30px;
+
+
+}
+
+.taka {
+    background-color: rgba(128, 128, 128, 0.081);
+    padding: 20px;
+
+    margin-left: 5%;
+    width: 5%;
+
+}
+
+
+
+#click {
+    border: 2px solid red;
+    background-color: rgba(255, 0, 0, 0.404);
+}
+
+.other {
+    text-align: center;
+    color: rgba(128, 128, 128, 0.716);
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 80px;
+
+}
+
+h5 {
+    margin-bottom: 50px;
+}
+
+/*third*/
+.third {
+    margin-top: 90px;
+}
+
+.plan {
+    text-align: center;
+}
+
+.some_plan {
+
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.center {
+    display: flex;
+    margin-top: 80px;
+    margin-left: 100px;
+    margin-right: 100px;
+
+}
+
+#one {
+    background-color: rgba(0, 255, 255, 0.175);
+}
+
+#two {
+    background-color: rgba(255, 0, 0, 0.136);
+}
+
+#three {
+    background-color: rgba(255, 166, 0, 0.125);
 }
