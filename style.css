@@ -128,6 +128,7 @@ h5 {
 }
 
 #one {
+
     background-color: rgba(0, 255, 255, 0.175);
 }
 
@@ -137,4 +138,50 @@ h5 {
 
 #three {
     background-color: rgba(255, 166, 0, 0.125);
+}
+
+/*bonus*/
+.bonus {
+    background-image: url(images/volunteers-1.jpg);
+    background-repeat: no-repeat;
+
+    background-size: 100%;
+    height: 550px;
+    margin-top: 150px;
+}
+
+.volunteer {
+    text-align: center;
+    padding-top: 3px;
+}
+
+form {
+    font-size: large;
+    font-weight: bolder;
+    margin-top: 20px;
+
+}
+
+button {
+    font-size: larger;
+    background-image: linear-gradient(tomato, red);
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 20px;
+}
+
+input {
+    background-color: rgba(166, 255, 0, 0.116);
+}
+
+#change {
+    color: rgba(255, 255, 255, 0.681);
+}
+
+#helped {
+    color: rgba(255, 138, 127, 0.979);
+    font-size: large;
 }
